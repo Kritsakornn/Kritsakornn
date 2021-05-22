@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kritsakornn.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Com-sci online course.
-- 💞️ I’m looking to collaborate on Apple Company.
+- 💞️ I’m looking to collaborate on Apple Company and Wongnai.
 - 📫 How to reach me ...
 
 <!---
