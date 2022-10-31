@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Com-sci online course.
 - 💞️ I’m looking to collaborate on Apple Company and Wongnai.
-- 📫 How to reach me ...
+### Skills
+
 
 ![doge](https://user-images.githubusercontent.com/77423011/199027698-368d61cf-48ce-4c88-a8d0-15be01791098.gif)
 
