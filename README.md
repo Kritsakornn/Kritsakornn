@@ -1,4 +1,3 @@
-![MasterHead](https://files.realpython.com/media/The-Best-Books-for-Python-Beginners_Watermarked.530f76514c63.jpg)
 <h1 align="center">Hi 👋, I'm Kritsakorn Thammas!</h1>
 <h3 align="center">A student at Kasintorn Saint Peter school.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
