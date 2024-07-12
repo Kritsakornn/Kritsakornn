@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritsakorn Thammas!</h1>
-<h3 align="center">A student at Kasintorn Saint Peter school.</h3>
+<h3 align="center">A student at Mahidol University.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritsakornn&label=Profile%20views&color=0e75b6&style=flat" alt="kritsakornn" /> </p>
 
